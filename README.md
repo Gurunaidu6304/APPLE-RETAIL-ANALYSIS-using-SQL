@@ -10,7 +10,8 @@ It includes:
 
 Entity Relationship Diagram (ERD)
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d8df5ba-f7bf-4db0-a135-a7b8bd675e0a" />
+<img width="1310" height="776" alt="image" src="https://github.com/user-attachments/assets/2e449b2f-bb09-4819-a4a6-7573296d8747" />
+
 
 
 Retail store information
