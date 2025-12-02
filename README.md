@@ -8,6 +8,11 @@ A comprehensive SQL-based analytics project built using 1 million+ rows of simul
 This project demonstrates end-to-end data analysis using SQL, covering data modeling, query optimization, exploratory analysis, business problem-solving, and advanced analytical SQL techniques.
 It includes:
 
+Entity Relationship Diagram (ERD)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d8df5ba-f7bf-4db0-a135-a7b8bd675e0a" />
+
+
 Retail store information
 
 Product catalog & categories
