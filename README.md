@@ -1,5 +1,7 @@
+<img width="1024" height="573" alt="image" src="https://github.com/user-attachments/assets/e13ef9ad-e30e-4390-af3c-99c2e41df3ea" />
 
-📊 Apple Retail Sales Analytics (1M+ Rows SQL Project)
+
+📊 Apple Retail Sales Analysis (1M+ Rows SQL Project)
 
 A comprehensive SQL-based analytics project built using 1 million+ rows of simulated Apple retail sales data. This repository includes complete database schemas, advanced SQL queries, performance tuning, and business insights derived from real-world analytical scenarios.
 
